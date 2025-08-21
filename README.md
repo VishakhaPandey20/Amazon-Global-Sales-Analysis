@@ -97,8 +97,8 @@ This project presents a complete end-to-end data analysis pipeline on Amazon's G
 
 ## 👨‍💻 Author
 
-**Manish Divekar**  
+**Vishakha Pandey**  
 *Aspiring Data Analyst | Python • SQL • Power BI*  
-📫 [LinkedIn] www.linkedin.com/in/manish-analyst
+📫 (https://www.linkedin.com/in/pandeyvishakha)
 
 ---
