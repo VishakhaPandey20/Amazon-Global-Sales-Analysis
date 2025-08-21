@@ -98,7 +98,7 @@ This project presents a complete end-to-end data analysis pipeline on Amazon's G
 ## 👨‍💻 Author
 
 **Vishakha Pandey**  
-*Aspiring Data Analyst | Python • SQL • Power BI*  
+*Data Analyst | Python • SQL • Power BI*  
 📫 (https://www.linkedin.com/in/pandeyvishakha)
 
 ---
